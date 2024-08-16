@@ -6,6 +6,10 @@
 In this challenge, I will use my knowledge of SparkSQL to determine key metrics about home sales data. Then I will use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 ## INDEX
+1. Instructions
+2. Additional Requirements:
+3. Repository Contents
+4. References
 
 ## Instructions
 1. What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
